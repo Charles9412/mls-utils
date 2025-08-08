@@ -19,5 +19,15 @@
 
 En tu notebook de Google Colab o entorno Python:
 
-```python
+`python`
 !pip install git+https://<your-username>:<your-token>@github.com/Charles9412/mls-utils.git
+
+
+# 📜 Licencia
+Este software es propiedad de Fintech.land y ha sido desarrollado con fines exclusivamente demostrativos.
+
+El uso, modificación o distribución del código fuente debe contar con la autorización explícita de la organización Fintech.land.
+
+No se permite su uso con fines comerciales ni su reutilización en entornos productivos sin permiso previo.
+
+Este repositorio tiene como objetivo ejemplificar el funcionamiento de motores de scoring, segmentación y recomendación inteligente, sin representar un producto terminado ni validado oficialmente.
